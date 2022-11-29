@@ -1,3 +1,4 @@
+// Number guessing game
 const RANDOM_NUMBER: number = Math.floor(Math.random() * 10) + 1;
 
 let guesses = 3;
